@@ -1,0 +1,113 @@
+Array
+(
+    [form_id] => 954
+    [time] => 2021-05-20 09:12:33
+    [source_url] => https://wp.livemila.ru/
+    [post_id] => 73
+    [user_id] => 1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+    [ip] => 94.41.85.25
+    [is_read] => 0
+    [privacy_scrub_date] => 2021-05-20
+    [on_privacy_scrub] => anonymize
+    [name] => Антон
+    [Phone] => 917412529777
+)
+Array
+(
+    [form_id] => 954
+    [time] => 2021-05-20 09:13:59
+    [source_url] => https://wp.livemila.ru/
+    [post_id] => 73
+    [user_id] => 1
+    [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+    [ip] => 94.41.85.25
+    [is_read] => 0
+    [privacy_scrub_date] => 2021-05-20
+    [on_privacy_scrub] => anonymize
+    [name] => Fynjyyyy
+    [Phone] => 78945612388
+    [url] => test.ru
+)
+Array
+(
+    [webhooktype] => 2
+    [phone] => 79174152977
+    [name] => 
+    [email] => 
+    [call_state] => Состоялся разговор
+    [call_duration] => 49
+    [called_at] => 2021-05-24 20:57:28
+    [referrer] => fitnesshallufa.ru
+    [keyword] => 
+    [ip] => 94.41.85.25
+    [place] => Уфа, Республика Башкортостан
+    [site] => fhufa.ru
+    [url] => https://fitnesshallufa.ru/расписание-групповых-занятий/
+    [shown_on] => Нажал на кнопку
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_content] => 
+    [utm_term] => 
+    [visitor_id] => 7575858056
+    [google_client_id] => 551097917.1621856827
+    [rs] => 
+    [roistat_promo] => 126351
+    [adv_uid] => 
+    [calltracking_id] => 
+    [manager_phone] => 73472242323
+    [manager_name] => 
+    [department] => 
+    [key] => b9e058d6f4367e6168cbbb4773588bb8
+    [lpgenerator_id] => 
+    [leadvertex_id] => 
+    [call_id] => 45071609
+    [managers_phones] => [{"manager_name":"","phone":"73472242323"}]
+    [custom_data] => []
+    [yandex_client_id] => 1621856828392586018
+    [call_record] => http://ru.envybox.io/user/calls/45071609/play/41abf7e2473dd87e61a12bd14e990811/
+    [call_record_second_link] => http://n5.calls.envybox.io/mp3/2021/05/24/1_45071609_79174152977.mp3
+    [created_at] => 2021-05-24 20:57:28
+)
+Array
+(
+    [webhooktype] => 2
+    [phone] => 79173812228
+    [name] => 
+    [email] => 
+    [call_state] => Состоялся разговор
+    [call_duration] => 185
+    [called_at] => 2021-06-06 14:26:56
+    [referrer] => yandex.ru
+    [keyword] => 
+    [ip] => 109.195.146.149
+    [place] => Уфа, Республика Башкортостан
+    [site] => fhufa.ru
+    [url] => https://fitnesshallufa.ru/about-us/
+    [shown_on] => Предложение в ходе просмотра
+    [utm_source] => 
+    [utm_medium] => 
+    [utm_campaign] => 
+    [utm_content] => 
+    [utm_term] => 
+    [visitor_id] => 7719933095
+    [google_client_id] => 
+    [rs] => 
+    [roistat_promo] => 
+    [adv_uid] => 
+    [calltracking_id] => 
+    [manager_phone] => 73472242323
+    [manager_name] => 
+    [department] => 
+    [key] => b9e058d6f4367e6168cbbb4773588bb8
+    [lpgenerator_id] => 
+    [leadvertex_id] => 
+    [call_id] => 45500618
+    [managers_phones] => [{"manager_name":"","phone":"73472242323"}]
+    [custom_data] => []
+    [yandex_client_id] => 1622978840870225165
+    [call_record] => http://ru.envybox.io/user/calls/45500618/play/4c409ab844963b7facd55d35eb83370a/
+    [call_record_second_link] => http://n5.calls.envybox.io/mp3/2021/06/06/1_45500618_79173812228.mp3
+    [created_at] => 2021-06-06 14:26:55
+)

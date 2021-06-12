@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="695af791-cb43-4f1b-9f65-a5965df2b39a" name="Default Changelist" comment="Готовность 70%">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fitnesshall.loc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sshConfigs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bd/fitnesshall.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3310559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/app_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/app_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/app_image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cta_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/customer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/customer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/customer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/customer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/customer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fon1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gym-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iPhone-app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/image-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logoFH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logoFHwhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/credits.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/credits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/about-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/about-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/about.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/about.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/color-picker-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/color-picker-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/color-picker-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/color-picker-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/color-picker.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/color-picker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/color-picker.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/color-picker.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/blue/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/blue/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/blue/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/blue/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/coffee/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/coffee/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/coffee/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/coffee/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/ectoplasm/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/ectoplasm/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/ectoplasm/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/ectoplasm/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/light/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/light/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/light/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/light/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/midnight/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/midnight/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/midnight/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/midnight/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/modern/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/modern/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/modern/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/modern/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/ocean/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/ocean/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/ocean/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/ocean/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/sunrise/colors-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/sunrise/colors-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/colors/sunrise/colors.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/colors/sunrise/colors.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/common-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/common-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/common-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/common-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/common.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/common.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-controls-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-controls-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-controls-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-controls-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-controls.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-controls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-controls.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-controls.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-widgets-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-widgets-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-widgets-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-widgets-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/customize-widgets.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/customize-widgets.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/dashboard-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/dashboard-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/dashboard-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/dashboard-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/dashboard.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/dashboard.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/deprecated-media-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/deprecated-media-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/deprecated-media-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/deprecated-media-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/deprecated-media.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/deprecated-media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/deprecated-media.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/deprecated-media.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/edit-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/edit-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/edit-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/edit-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/edit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/edit.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/forms-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/forms-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/forms-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/forms-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/forms.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/forms.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/list-tables-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/list-tables-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/list-tables-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/list-tables-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/list-tables.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/list-tables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/list-tables.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/list-tables.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/login-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/login-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/login-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/login-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/login.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/login.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/nav-menus-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/nav-menus.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/nav-menus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/nav-menus.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/nav-menus.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/revisions-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/revisions-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/revisions-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/revisions-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/revisions.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/revisions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/revisions.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/revisions.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/themes-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/themes-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/themes-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/themes-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/themes.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/themes.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/themes.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/themes.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/widgets-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/widgets-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/widgets-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/widgets-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/css/widgets.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/css/widgets.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/freedoms.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/freedoms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/includes/class-wp-privacy-policy-content.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/includes/class-wp-privacy-policy-content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/includes/class-wp-site-health.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/includes/class-wp-site-health.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/includes/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/includes/image.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/customize-controls.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/customize-controls.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/customize-nav-menus.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/customize-nav-menus.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/customize-widgets.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/customize-widgets.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/edit-comments.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/edit-comments.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/editor-expand.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/editor-expand.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/editor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/editor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/image-edit.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/image-edit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/nav-menu.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/nav-menu.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/post.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/post.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/privacy-tools.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/privacy-tools.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/site-health.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/site-health.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/svg-painter.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/svg-painter.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/tags-box.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/tags-box.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/js/theme.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/js/theme.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-admin/privacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-admin/privacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/hello-dolly-ru_RU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/hello-dolly-ru_RU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-1780a2033cf98d69ce13c2e5c8510004.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-1780a2033cf98d69ce13c2e5c8510004.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-320f4ad9792aaa6dedb1e71cbdf85d57.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-320f4ad9792aaa6dedb1e71cbdf85d57.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-49c6d4acf36cf3aca9f0b2a77617304f.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-49c6d4acf36cf3aca9f0b2a77617304f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-7289286ed59e90a8f36ae797df62220b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-7289286ed59e90a8f36ae797df62220b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-7b74c8457eaa7fcc50db41b431f8a003.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-7b74c8457eaa7fcc50db41b431f8a003.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-81c889563f09dd13de1701135dc62941.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-81c889563f09dd13de1701135dc62941.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-93882e8f9976382d7f724ac595ed7151.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-93882e8f9976382d7f724ac595ed7151.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-947c76bb5095da30e16668eec15406b2.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-947c76bb5095da30e16668eec15406b2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-ac23eee47530ac63a1178c827db28087.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-ac23eee47530ac63a1178c827db28087.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf23b24175490c2e46aaf92ff6a0c70f.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-bf23b24175490c2e46aaf92ff6a0c70f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-daeb084aab42199d26393a56c3465bc0.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-daeb084aab42199d26393a56c3465bc0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-e2791ba830489d23043be8650a22a22b.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-e2791ba830489d23043be8650a22a22b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-f575f481034e90e21d832e415fd95fcf.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-f575f481034e90e21d832e415fd95fcf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU.mo" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/languages/ru_RU.po" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/languages/ru_RU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/clean-wp-template-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/blocks/one.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/css/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/3310559.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/app_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/app_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/app_image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/boxing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/cta_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/customer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/customer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/customer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/customer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/customer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/fon1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/fongallery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/fonocean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/gym-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/iPhone-app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/image-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/logoFH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/logoFHwhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/sauna.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/artemhl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/artur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/azalia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/danil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/evagenst.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/husnudin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/team/tren6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/workout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/images/young-beautiful-sportive-girl-training-sunrise-seaside.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/jquery.subscribe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/page-uslugi.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/php/subscribe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fithall/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/motiva/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/motiva/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/themefit/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/themefit/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/themefit/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentynineteen/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwenty/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie-editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie-editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/sass/01-settings/file-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/sass/01-settings/file-header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/style-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/style-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/author.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/category.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/loop.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/page-custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/screenshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/your-clean-template-3/tag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-1024x576.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-1536x864.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-2048x1152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-300x169.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-768x432.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1-scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/143257-kosmicheskoe_prostranstvo-kosmos-nauchnaya_fantaziya-art-fantasticheskoe_iskusstvo-7680x4320-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-1024x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-1536x1536.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-2048x2048.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-768x768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта-scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/2-друга-1-карта.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-1024x683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-150x150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-1536x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-2048x1366.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-300x200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-768x512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio-scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2021/03/exited-sporty-woman-demonstrate-muscule-in-studio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/ID3/getid3.lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/ID3/getid3.lib.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/PHPMailer/PHPMailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/PHPMailer/PHPMailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/PHPMailer/SMTP.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/PHPMailer/SMTP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/assets/script-loader-packages.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/assets/script-loader-packages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/blocks/latest-posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/blocks/latest-posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/class-wp-recovery-mode-email-service.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/class-wp-recovery-mode-email-service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/customize-preview-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/customize-preview-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/customize-preview.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/customize-preview.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dashicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dashicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/editor.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/dist/block-library/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/media-views-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/media-views-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/media-views-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/media-views-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/media-views.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/media-views.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/media-views.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/media-views.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/wp-pointer-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/wp-pointer-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/wp-pointer-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/wp-pointer-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/wp-pointer.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/wp-pointer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/css/wp-pointer.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/css/wp-pointer.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/general-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/general-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/autosave.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/autosave.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/backbone.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/backbone.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/clipboard.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/clipboard.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/comment-reply.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/comment-reply.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/customize-base.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/customize-base.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/customize-selective-refresh.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/customize-selective-refresh.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-library.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-library.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-library.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-library.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/edit-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/edit-post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/edit-post.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/edit-post.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/editor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/editor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/reusable-blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/reusable-blocks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/reusable-blocks.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/reusable-blocks.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/vendor/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/heartbeat.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/heartbeat.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery.form.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/jquery.form.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/core.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/core.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/datepicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/datepicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/dialog.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/dialog.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/effect-pulsate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/effect-pulsate.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/effect.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/effect.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/menu.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/menu.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/slider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/slider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/sortable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/sortable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/tabs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/ui/tabs.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/media-grid.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/media-grid.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/media-models.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/media-models.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/media-views.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/media-views.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/plupload/moxie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/plupload/moxie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/quicktags.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/quicktags.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/tinymce/wp-tinymce.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/tinymce/wp-tinymce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/underscore.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/underscore.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/wp-api.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/wp-api.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/wp-backbone.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/wp-backbone.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/wp-lists.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/wp-lists.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/wp-sanitize.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/wp-sanitize.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/wplink.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/wplink.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/kses.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/kses.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/media.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/media.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/rest-api.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/rest-api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/robots-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/robots-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/script-loader.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/script-loader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/version.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/version.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-login.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1q0WjzJaedLCFZeTqqrR859aVEI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/fithall/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\fithall\images" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\themefit" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\motiva" />
+      <recent name="F:\openserver\domains\Fitnesshall.loc\wp-content\themes\fithall" />
+      <recent name="F:\openserver\domains\Fitnesshall.loc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\fithall\images" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\fithall\images\team" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\fithall\sauna" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\images" />
+      <recent name="C:\openserver\domains\Fitnesshall.loc\wp-content\themes\themefit\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="695af791-cb43-4f1b-9f65-a5965df2b39a" name="Default Changelist" comment="" />
+      <created>1616217126931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616217126931</updated>
+      <workItem from="1616217128783" duration="75000" />
+      <workItem from="1616235707404" duration="33787000" />
+      <workItem from="1616503758869" duration="9897000" />
+      <workItem from="1616583569686" duration="5119000" />
+      <workItem from="1616632303888" duration="2809000" />
+      <workItem from="1616725914987" duration="2741000" />
+      <workItem from="1616812341192" duration="1210000" />
+      <workItem from="1616990758731" duration="1278000" />
+      <workItem from="1617276011997" duration="14238000" />
+      <workItem from="1617456401912" duration="5131000" />
+      <workItem from="1617533781842" duration="7379000" />
+      <workItem from="1617551389903" duration="36557000" />
+      <workItem from="1617766564919" duration="22906000" />
+      <workItem from="1618051074525" duration="2330000" />
+      <workItem from="1618991796877" duration="5344000" />
+    </task>
+    <task id="LOCAL-00001" summary="проблемы с css">
+      <created>1616249122471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616249122471</updated>
+    </task>
+    <task id="LOCAL-00002" summary="проблемы с css решнеы не забывай ставить &quot;/&quot; перед путем">
+      <created>1616249802675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616249802675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Работа с фукциями и новой темой">
+      <created>1616503789764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616503789764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Работа с фукциями и новой темой">
+      <created>1616503811737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616503811738</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавлены новые темы для новых испытнаий так и не догнал как распределить страницы и составить планы">
+      <created>1616698003135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616698003135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Перрезд на новую тему">
+      <created>1617429104414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617429104427</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавил тему themefit">
+      <created>1617440624137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617440624137</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Дело пошло">
+      <created>1617470664510</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617470664510</updated>
+    </task>
+    <task id="LOCAL-00009" summary="карточки тернировок">
+      <created>1617471501989</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617471501989</updated>
+    </task>
+    <task id="LOCAL-00010" summary="карточки тренировок">
+      <created>1617551202781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617551202781</updated>
+    </task>
+    <task id="LOCAL-00011" summary="карточки тренировок2">
+      <created>1617551837551</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617551837551</updated>
+    </task>
+    <task id="LOCAL-00012" summary="испрвленно">
+      <created>1617552130418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617552130418</updated>
+    </task>
+    <task id="LOCAL-00013" summary="испрвленно 2">
+      <created>1617552826115</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617552826115</updated>
+    </task>
+    <task id="LOCAL-00014" summary="испрвленно 4">
+      <created>1617554069121</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1617554069121</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Пошло дело в гору">
+      <created>1617571711693</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617571711693</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Тренера">
+      <created>1617745061269</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617745061269</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Тренера1">
+      <created>1617775354307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1617775354307</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Готовность 70%">
+      <created>1617871943386</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617871943386</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="проблемы с css" />
+    <MESSAGE value="проблемы с css решнеы не забывай ставить &quot;/&quot; перед путем" />
+    <MESSAGE value="Работа с фукциями и новой темой" />
+    <MESSAGE value="Добавлены новые темы для новых испытнаий так и не догнал как распределить страницы и составить планы" />
+    <MESSAGE value="Перрезд на новую тему" />
+    <MESSAGE value="Добавил тему themefit" />
+    <MESSAGE value="Дело пошло" />
+    <MESSAGE value="карточки тернировок" />
+    <MESSAGE value="карточки тренировок" />
+    <MESSAGE value="карточки тренировок2" />
+    <MESSAGE value="испрвленно" />
+    <MESSAGE value="испрвленно 2" />
+    <MESSAGE value="испрвленно 4" />
+    <MESSAGE value="Пошло дело в гору" />
+    <MESSAGE value="Тренера" />
+    <MESSAGE value="Тренера1" />
+    <MESSAGE value="Готовность 70%" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готовность 70%" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\openserver\domains\Fitnesshall.loc</wordpressPath>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
